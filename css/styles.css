@@ -9,6 +9,10 @@ body{
     color: black;
 }
 
+a{
+    color: #FE6D73;
+}
+
 .title-container{
     padding-top: 5%;
 }
@@ -81,3 +85,10 @@ img{
     border: none;
     cursor: default;
 }
+
+.footer-dph{
+    padding: 3rem 1.5rem 1.5rem 3rem;
+    background-color: #FEF9EF;
+    margin-bottom: 0;
+}
+
