@@ -1,0 +1,83 @@
+html{
+    background-color: #FEF9EF;
+}
+
+body{
+    background-color: #FEF9EF;
+    font-family: 'League Spartan';
+    /* height: 100%; */
+    color: black;
+}
+
+.title-container{
+    padding-top: 5%;
+}
+
+.title-dph{
+    letter-spacing: -0.5rem;
+    line-height: 80%;
+    font-size: 10rem;
+    color: black;
+    font-weight: bold;
+    /* background-color: red; */
+}
+
+.subtitle-dph{
+    /* letter-spacing: -0.5rem; */
+    padding-top: 5%;
+    line-height: 80%;
+    font-size: 2.5rem;
+    color: black;
+    font-weight: bold;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+
+.input-container{
+    padding-top: 1%;
+}
+.salary-dph{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: right;
+}
+
+.input-dph{
+    font-size: 2rem;
+    font-weight: bold;
+    border: none;
+    text-align: right;
+}
+
+.select-dph{
+    width: 100%;
+    text-align: right;
+}
+
+.button-dph{
+    background-color: #FE6D73;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #FEF9EF;
+}
+
+.button-dph-ghost{
+    background-color: #FEF9EF;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #FEF9EF;
+    border: none;
+}
+
+.button-dph-ghost:hover{
+    background-color: #FEF9EF;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #FEF9EF;
+    border: none;
+    cursor: default;
+}
