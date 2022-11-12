@@ -20,7 +20,7 @@ a{
 .title-dph{
     letter-spacing: -0.5rem;
     line-height: 80%;
-    font-size: 10rem;
+    font-size: 9rem;
     color: black;
     font-weight: bold;
     /* background-color: red; */
@@ -36,8 +36,9 @@ a{
 }
 
 img{
-    height: 100%;
-    width: 100%;
+    /* height: 60%; */
+    /* width: 60%; */
+    width: 60%;
 }
 
 
@@ -90,5 +91,13 @@ img{
     padding: 3rem 1.5rem 1.5rem 3rem;
     background-color: #FEF9EF;
     margin-bottom: 0;
+}
+
+.twitter-dph{
+    color: #FE6D73;
+}
+
+.twitter-dph:hover{
+    color: black;
 }
 
