@@ -38,7 +38,7 @@ a{
 img{
     /* height: 60%; */
     /* width: 60%; */
-    width: 60%;
+    width: 50%;
 }
 
 
@@ -58,10 +58,17 @@ img{
     text-align: right;
 }
 
+select{
+    font-family: 'League Spartan';
+    font-weight: bold;
+    font-size: 2rem;
+}
+
 .select-dph{
     width: 100%;
     text-align: right;
     border: none !important;
+    font-family: 'League Spartan';
 }
 
 .button-dph{
